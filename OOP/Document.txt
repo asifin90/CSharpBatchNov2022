@@ -1,0 +1,16 @@
+Paradigm: It’s a pattern or set of instruction/rule that programming language need to follow.
+Example: procedural, object oriented, parallel, functional
+
+Object Oriented Programming paradigm:
+To become object oriented programming, language needs to follow OOP’s concept. 
+Below are main principles of object oriented programming concept.  
+1.	Encapsulation
+2.	Inheritance
+3.	Abstraction
+4.	Polymorphism
+
+Encapsulation: Hiding the data in container/wrapper.
+Inheritance: Parent-Child relation, child can access members of parent.
+Abstraction: Hiding complexity
+Polymorphism: having may forms, you will get different output based on input.
+ 
